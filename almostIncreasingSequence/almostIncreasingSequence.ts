@@ -11,6 +11,7 @@ export function almostIncreasingSequence(sequence: number[]): boolean {
         }
     }
 
+    
     return count <= 1
 
 }

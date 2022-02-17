@@ -11,7 +11,7 @@ export function almostIncreasingSequence(sequence: number[]): boolean {
         }
     }
 
-    
+
     return count <= 1
 
 }
@@ -20,7 +20,3 @@ console.log(almostIncreasingSequence([1, 3, 2, 1]))
 console.log(almostIncreasingSequence([1, 3, 2]))
 console.log(almostIncreasingSequence([1, 3, 1, 2]))
 
-
-
-
-https://mira.egybest.rocks/series/manifest/

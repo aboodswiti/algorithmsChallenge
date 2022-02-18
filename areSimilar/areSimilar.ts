@@ -17,8 +17,6 @@ export function areSimilar(a: number[], b: number[]): boolean {
     return false;
 
 
-
-
 }
 
 console.log(areSimilar([1, 2, 3], [1, 2, 3]));
